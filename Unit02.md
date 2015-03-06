@@ -1,3 +1,10 @@
+---
+layout: default
+title: "STS101: Introduction to Science, Technology, and Society"
+course_description: "This course explains developments in science and technology in terms of their interactions with social, cultural, environmental, and other issues. This course will prepare you for the STS major by introducing its core components: the philosophy of science, history of science, history of technology, science and ethics, and science policy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Philosophy of Science and the Nature of Science** <span
 id="2"></span> 
 *This unit introduces the philosophy of science and then examines a set
